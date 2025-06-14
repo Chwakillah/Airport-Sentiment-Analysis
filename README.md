@@ -43,15 +43,32 @@ We analyze sentiment across 6 core aspects:
 ---
 
 ### 🧠 Model Performance  
-![Model Comparison]([./assets/model-performance.png](https://drive.google.com/file/d/1xPUiMHFUa4lmiz8SLoB6pbUk7gE9ftQH/view?usp=sharing))
+![Model Comparison](https://drive.google.com/uc?export=view&id=1xPUiMHFUa4lmiz8SLoB6pbUk7gE9ftQH)
 
 <details>
   <summary>📌 Confusion Matrix (click to expand)</summary>
 
-  ![Naive Bayes](./assets/confusion-naive-bayes.png)  
-  ![SVM]([./assets/confusion-svm.png](https://drive.google.com/file/d/1_bKFq0iSypaRorDHr-nko2Hd1hTerq6J/view?usp=drive_link))  
-  ![Random Forest]([./assets/confusion-rf.png](https://drive.google.com/file/d/1dtZ5TsVmTkZiKztnro4Hzc9D3j3Ytxn3/view?usp=sharing))
+  ![Naive Bayes](https://drive.google.com/file/d/1aC_V0qyEzTrTAu1041y2ZM5ogtPaPdh-/view?usp=drive_link)
+  ![Naive Bayes](https://drive.google.com/uc?export=view&id=1_bKFq0iSypaRorDHr-nko2Hd1hTerq6J)  
+  ![SVM](https://drive.google.com/uc?export=view&id=1dtZ5TsVmTkZiKztnro4Hzc9D3j3Ytxn3)
 </details>
+
+---
+## 📝 Citation
+
+This research was published in:
+
+> **JATI (Jurnal Mahasiswa Teknik Informatika)**, Vol. 9 No. 3, June 2025  
+> Syakillah Nachwa, et al.  
+> _"Pendekatan Klasifikasi dalam Knowledge Discovery untuk Analisis Sentimen Berbasis Aspek pada Ulasan Bandara Sultan Mahmud Badaruddin II di Google Maps."_  
+> 📄 [Read the full publication here](https://ejournal.itn.ac.id/index.php/jati/article/view/13776)
+
+---
+
+## 📬 Contact  
+Made with ❤️ by **Syakillah Nachwa**  
+📧 syakillahnachwa081@gmail.com  
+🔗 [LinkedIn](https://linkedin.com/in/chwakillah) 
 
 ---
 
