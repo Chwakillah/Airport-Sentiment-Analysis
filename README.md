@@ -45,14 +45,6 @@ We analyze sentiment across 6 core aspects:
 ### 🧠 Model Performance  
 ![Model Comparison](https://drive.google.com/uc?export=view&id=1xPUiMHFUa4lmiz8SLoB6pbUk7gE9ftQH)
 
-<details>
-  <summary>📌 Confusion Matrix (click to expand)</summary>
-
-  ![Naive Bayes](https://drive.google.com/file/d/1aC_V0qyEzTrTAu1041y2ZM5ogtPaPdh-/view?usp=drive_link)
-  ![Naive Bayes](https://drive.google.com/uc?export=view&id=1_bKFq0iSypaRorDHr-nko2Hd1hTerq6J)  
-  ![SVM](https://drive.google.com/uc?export=view&id=1dtZ5TsVmTkZiKztnro4Hzc9D3j3Ytxn3)
-</details>
-
 ---
 ## 📝 Citation
 
